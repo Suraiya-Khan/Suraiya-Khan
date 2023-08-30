@@ -12,8 +12,3 @@ Eager to join a creative, problem-solving team and upskill myself in any challen
 Ability to learn new technologies quickly.
 I enjoy meeting new people and hearing new perspectives.😀
 
-YouTube Badge Linkedin Badge Website Badge Website Badge
-
-Languages and Tools:
-
-bootstrap c  css3  html5 java javascript mongodb mysql nextjs nodejs  python react 
