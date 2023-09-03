@@ -1,4 +1,4 @@
-![Header](./[Your header-github-header-image.png]
+![Header](./your-header-image-github-header-image.png)
 <h1 align="center">Hi 👋, I'm Suraiya Khan</h1>
 <h3 align="center">A Passionate Full Stack Developer from India. I have worked as an intern at BSNL. MERN Stack enthusiast || Web enthusiast || Data enthusiast || Gold medalist🥇</h3>
 
