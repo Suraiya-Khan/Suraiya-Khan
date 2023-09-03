@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraiya-khan" alt="suraiya-khan" /></a> </p>
 
-- 📝 I regularly write articles on [https://suraiyakhan130.wordpress.com/](https://suraiyakhan130.wordpress.com/)
+
 
 - 📫 How to reach me **suraiya.khan130@gmail.com**
 
