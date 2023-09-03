@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraiya Khan</h1>
-<h3 align="center">A Passionate Full Stack Developer from India. I have worked as an intern at BSNL.</h3>
+<h3 align="center">A Passionate Full Stack Developer from India. I have worked as an intern at BSNL. MERN Stack enthusiast || Web enthusiast || Data enthusiast || Gold medalist🥇</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraiya-khan&label=Profile%20views&color=0e75b6&style=flat" alt="suraiya-khan" /> </p>
 
