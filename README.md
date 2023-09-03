@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1orlqYzAEqXzeJY0sRA8k1&ust=1693814720132000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCawNf9jYEDFQAAAAAdAAAAABAE)]
+
 <h1 align="center">Hi 👋, I'm Suraiya Khan</h1>
 <h3 align="center">A Passionate Full Stack Developer from India. I have worked as an intern at BSNL. MERN Stack enthusiast || Web enthusiast || Data enthusiast || Gold medalist🥇</h3>
 
