@@ -1,4 +1,4 @@
-![](https://github.com/Suraiya-Khan/suraiya.gif)
+![](https://github.com/Suraiya-Khan/Suraiya-Khan/blob/main/suraiya.gif)
 <h1 align="center">Hi 👋, I'm Suraiya Khan</h1>
 <h3 align="center">A Passionate Full Stack Developer from India. I have worked as an intern at BSNL. MERN Stack enthusiast || Web enthusiast || Data enthusiast || Gold medalist🥇</h3>
 
