@@ -1,4 +1,4 @@
-![](https://github.com/Suraiya-Khan/Suraiya-Khan/blob/main/suraiya.gif)
+![](https://github.com/Suraiya-Khan/Suraiya-Khan/blob/main/ds.gif)
 <h1 align="center">Hi 👋, I'm Suraiya Khan</h1>
 <h3 align="center">A Passionate and dedicated professional with expertise in data analysis, and designing dashboards and websites. My work revolves around creating seamless user experiences and transforming raw data into valuable insights. Awarded Gold Medals in both Graduation and Post-Graduation, with the Graduation honor presented by Mrs. Droupadi Murmu, President of India, which reflects my commitment to excellence and continuous learning.
 
