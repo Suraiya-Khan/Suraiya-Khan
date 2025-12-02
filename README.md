@@ -15,17 +15,13 @@ I have also gained hands-on experience as an intern at Edureka and BSNL, where I
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suraiyakhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraiyakhan/" height="30" width="40" /></a>
-   
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13651265/suraiya-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13651265/suraiya-khan" height="30" width="40" /></a>
-
-   <a href="https://medium.com/https://medium.com/p/185660369619/edit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/p/185660369619/edit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suraiyakhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraiyakhan/" height="30" width="40" /></a>   
+<a href="https://stackoverflow.com/users/13651265/suraiya-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13651265/suraiya-khan" height="30" width="40" /></a>   <a href="https://medium.com/p/185660369619/edit" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1940073180946698240/J20c_VOX.jpg" alt="https://medium.com/p/185660369619/edit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a> 
  <a> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
  <a> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
